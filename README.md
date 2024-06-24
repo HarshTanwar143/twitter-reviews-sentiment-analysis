@@ -1,1 +1,3 @@
 # twitter-reviews-sentiment-analysis
+
+The "Twitter Reviews Sentiment Analysis" project aims to analyze the sentiment of tweets collected from Twitter using natural language processing (NLP) techniques. By classifying tweets as positive, negative, or neutral, this project provides insights into public opinion on various topics. It includes modules for data collection using the Twitter API, data preprocessing to clean and prepare the tweets, sentiment analysis using machine learning models, and visualization of the results with various charts. This project is ideal for understanding how different subjects are perceived on Twitter, making it valuable for market research, social media monitoring, and more
